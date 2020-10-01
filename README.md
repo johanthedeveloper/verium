@@ -1,1 +1,2 @@
 # verium
+verium node
