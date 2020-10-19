@@ -1,7 +1,8 @@
 #!/bin/bash
 
-#setup config file
-#/usr/libexec/verium/setupconfig.sh
+#setup bootstrap
+printf "Checking bootstrap\n";
+/usr/libexec/verium/bootstrap.sh
 
 #look config file
 #source /root/verium/verium.conf
